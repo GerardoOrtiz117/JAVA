@@ -16,7 +16,7 @@ public class HelloWorldExcercises {
         System.out.println("Edad: 26 años\\n Color Fav: Azul y Negro \\n Ciudad: Aguascalientes\\n");
         /*Imprime mi 26 años, Azul y negro y Aguascalientes */
         System.gc();//solicita reciclar espacios de memoria sin usar en la VM de Java
-        System.err.println("Este muestra errores"); //en Rojo
+        //System.err.println("Este muestra errores"); //en Rojo
         //System.in.reset();
 
         String emoji = "\uD83D\uDE00";
