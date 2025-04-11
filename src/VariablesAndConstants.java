@@ -12,7 +12,7 @@ public class VariablesAndConstants {
         // System.out.println(name);
 
                  //Inferencia de tipos
-        var email ="ortizgerardo053@gmail.com"; //variable que determina el tipo de dato en automatico
+        String email = "ortizgerardo053@gmail.com"; //variable que determina el tipo de dato en automatico
         System.out.println("email");
         var year = 2025;
         System.out.println(year);
