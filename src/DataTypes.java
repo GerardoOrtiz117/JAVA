@@ -17,11 +17,11 @@ public class DataTypes {
         //long
         //Byte
 
-        boolean myBoolean = true;
+        /*boolean myBoolean = true;
         //System.out.println(myBoolean);
 
         myBoolean = false;
-        System.out.println(myBoolean);
+        System.out.println(myBoolean);*/
         String myString = "Hola Java";
         //no es un dato primitivo en java, si en diferentes lenguajes
 
