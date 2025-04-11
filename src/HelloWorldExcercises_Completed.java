@@ -8,7 +8,7 @@ public class HelloWorldExcercises_Completed {
     // 6. Explora los diferentes System.XXX.println(); mas allá de un "out".
     // 7. utiliza varios println para imprimir una frase.
     // 8. Imprime un diseño ASCII (por ejemplo, una cara feliz usando simbolos).
-    // 9. Intenta ejecutar el programa sin el método "main" y observa el error
+    // 9. Intenta ejecutar el programa sin el metodo "main" y observa el error
     // 10. Intenta cambiar el nombre del archivo a uno diferente del de la clase y compilalo.
         System.out.println("Hola, mi nombre es Gerardo Ortiz"); //Imprime la presentacion y mi nombre.
         System.out.println("Hola \\n Mundo"); /* Imprime "Hola Mundo" en 2 lineas con "\\n",
