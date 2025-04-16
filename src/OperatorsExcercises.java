@@ -35,15 +35,26 @@ public class OperatorsExcercises {
         System.out.println(a!=(a));
 
         // 5. Utiliza el operador lógico and.
+        System.out.println(suma >= 10 && multiplicacion != 1);
 
         // 6. Utiliza el operador lógico or.
+        System.out.println(suma >0 || resta <100);
 
         // 7. Combina ambos operadores lógicos.
+        System.out.println((suma+resta >10 && div ==2) || (resta==0 && suma<100));
 
         // 8. Añade alguna negación.
+        System.out.println((suma+resta >10 && div ==2) || (resta!=0 && suma<100));
 
         // 9. Imprime 3 ejemplos de uso de operadores unarios.
+        System.out.println(suma++);
+        System.out.println(resta--);
+        System.out.println(++multiplicacion);
+        System.out.println(div++);
+        System.out.println(div);
+
 
         // 10. Combina operadores aritméticos, de comparación y lógicos.
+        System.out.println((suma+resta >10 && div ==2) || (resta!=0 && suma<100)== false);
     }
 }
